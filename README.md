@@ -10,7 +10,7 @@ How I took an AI chatbot from business case to a live, cross-country launch at a
 | **My role** | Project owner, from business case to post-launch iteration |
 | **Timeline** | About 2 months of build (December to mid-February), after approval |
 | **Team** | My manager, an external chatbot vendor, the head of architecture, a Salesforce developer, CX leadership |
-| **Result** | +15% new-user activation within 24 hours vs control (relative lift), 30% fewer tickets handled by CX |
+| **Result** | 24-hour activation from ~48% to ~55% vs control (~15% relative lift), 30% fewer tickets handled by CX |
 
 ---
 
@@ -138,13 +138,13 @@ There were **20+ iterations** of the prompt and the knowledge base. The scope ne
 
 ### Results
 
-- **+15% relative lift** in 24-hour activation vs control.
+- 24-hour activation went from **about 48% in control to about 55% in treatment**: a **~15% relative lift** (7 percentage points).
 - **30% fewer tickets** handled by CX.
 
 ### Limitations
 
 - **The treatment was a bundle.** Treated users got a proactive message *and* the chatbot, so the lift is the effect of both together, not of the bot alone.
-- I don't have the exact base rates to hand, so I only report the relative lift.
+- Rates are approximate, from memory of the dashboard; I no longer have access to the underlying data.
 
 ## 8. What happened next
 
