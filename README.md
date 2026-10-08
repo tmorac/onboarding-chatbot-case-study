@@ -20,7 +20,7 @@ How I took an AI chatbot from business case to a live, cross-country launch at a
 - The largest drop in the funnel was at activation: users who completed sign-up and identity verification (KYC) but never transacted.
 - New users had many simple questions right after creating their account: *can I send money to country X?*, *how is the exchange rate calculated?*, *how do I load money?*
 - Before the chatbot, an external call center handled part of this demand. I joined with it already running, trained the team and listened to a random sample of calls to learn what users were actually asking.
-- The CX team was overloaded: **queues of up to 20 hours.**
+- The CX team was overloaded: **queues of up to 20 hours.** in rushing times.
 
 ## 2. The business case
 
