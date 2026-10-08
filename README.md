@@ -117,7 +117,11 @@ Each phase widened exposure only after the previous one was stable.
 
 The first priority was always the same: **the bot must never give wrong information.** In the first weeks I reviewed several conversations every day, looking for errors, broken logic and hallucinations.
 
-**Example: unsupported countries.** The most critical failure was questions about countries we didn't send money to. The knowledge base only described what *was* possible, so the bot sometimes filled the gap. The fix was to state explicitly what does *not* exist, not only what does.
+**Example 1: unsupported countries.** The most critical failure was questions about countries we didn't send money to. The knowledge base only described what *was* possible, so the bot sometimes filled the gap. The fix was to state explicitly what does *not* exist, not only what does.
+
+**Example 2: available currencies.** Simpler, but users get lost in the currencies that they can support and how to add money to the wallet depending on their nationality.
+
+**Example 2: how the pricing works.** Remittance is difficult to understand at the beginning, and users do not clearly understand if the cost is on the exchange rate or the transaction cost. And also, this varies per product, causing more confusion for the user. The chatbot solves most of those questions.
 
 > TODO: one or two more examples of an error found in review and how the prompt or knowledge base changed.
 
@@ -150,9 +154,6 @@ There were **20+ iterations** of the prompt and the knowledge base. The scope ne
 
 Two weeks after launch, the bot was also taking CX and customer service questions **in all six countries**, well beyond the original onboarding scope.
 
-## 9. What I'd do differently
-
-> TODO
 
 ---
 
